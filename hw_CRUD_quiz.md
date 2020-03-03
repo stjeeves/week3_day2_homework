@@ -40,7 +40,7 @@ An array is returned and it's accessed using the relevant index.
 
 Q9. Why do we use prepared statements when performing database operations?
 
-Because it is the correct syntax that SQL will understand.
+Because it is the correct syntax that SQL will understand, whilst being safe and preventing security issues.
 
 
 
