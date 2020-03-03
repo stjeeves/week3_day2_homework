@@ -12,7 +12,7 @@ In console.rb, with property1, property2, property3.
 
 Q2. Where are we defining the SQL that enables us to save the ruby `Property` object into the database?
 
-In the save function.
+In the save functio, line 18.
 
 Q3. In `console.rb`, which lines modify the database?
 
